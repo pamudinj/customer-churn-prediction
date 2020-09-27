@@ -11,6 +11,3 @@ seaborn==0.11.0
     Customer_Churn_Data_Analysis.ipynb - this file indicates steps related to data preprocessing, 
                                             exploratory analysis, feature engineering
     Customer_Churn_Prediction.ipynb - this file indicates steps related to the predictive model building
-
-** data 
-This folder includes the raw data CSV file and filtered data CSV file
